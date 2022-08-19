@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bảng phấn mắt FOCALLURE 18 màu lấp lánh thời trang",
+      "img": "https://bloganchoi.com/wp-content/uploads/2020/02/clio-pro-eye-palette-3.jpg",
+      "oldPrice": "350.000đ",
+      "newPrice": "299.0000đ",
+      "sold": "10",
+      "local": "HCM",
+      "liked": "active",
+      "sale": "100%"
+    },
+    {
+      "id": 2,
+      "name": "Bảng phấn mắt FOCALLURE 18 màu lấp lánh thời trang",
+      "img": "https://cf.shopee.vn/file/01c2989e0a1475ca638fb14addbe127f",
+      "oldPrice": "350.000đ",
+      "newPrice": "299.0000đ",
+      "sold": "10",
+      "local": "HCM",
+      "liked": "active",
+      "sale": "5%"
+    },
+    {
+      "name": "Set mỹ phẩm trang điểm PinkFlash đầy đủ tiện lợi làm đẹp cho nữ",
+      "img": "https://cf.shopee.vn/file/f2dbe5c6cadb0c9fc423f9d094c662e0",
+      "oldPrice": "150.000đ",
+      "newPrice": "119.0000đ",
+      "sold": "10",
+      "local": "HCM",
+      "liked": "active",
+      "sale": "5%",
+      "id": 3
+    },
+    {
+      "name": "Bút chì kẻ mắt gel PINKFLASH E13 chống thấm nước lâu trôi 30g",
+      "img": "https://cf.shopee.vn/file/159dbbbcab6da6bc4a7ff6b502cb3626",
+      "oldPrice": "116.000đ",
+      "newPrice": "56.0000đ",
+      "sold": "10",
+      "local": "HCM",
+      "liked": "active",
+      "sale": "100%",
+      "": "",
+      "id": 4
+    }
+  ]
+}
